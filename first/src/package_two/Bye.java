@@ -1,6 +1,6 @@
-package packageTwo;
+package package_two;
 
-import packageOne.Hello; 
+import package_one.Hello; 
 
 public class Bye { // Classes are independent of each other, Bye can run on its own and doesnt need Hello
 
@@ -8,6 +8,6 @@ public class Bye { // Classes are independent of each other, Bye can run on its 
         
         Hello.secondMethod(); // Since the whole package is imported at the start i dont have to write packageOne.Hello.[method]
 
-        packageOne.alpha.Hi.main(args); // Didnt import so had to write the whole thing
+        package_one.alpha.Hi.main(args); // Didnt import so had to write the whole thing
     }
 }

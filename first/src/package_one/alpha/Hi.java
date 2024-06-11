@@ -1,4 +1,4 @@
-package packageOne.alpha;
+package package_one.alpha;
 
 public class Hi {
     public static void main(String[] args) {

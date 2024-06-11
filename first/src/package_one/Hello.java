@@ -1,4 +1,4 @@
-package packageOne; // Packages are like folders for classes
+package package_one; // Packages are like folders for classes
 /**
  * Javadoc comment (extra asterisk in the start)
  * Used for api documentation and usually goes before all methods and classes
